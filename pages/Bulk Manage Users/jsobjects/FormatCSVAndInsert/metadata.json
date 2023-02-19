@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "FormatCSVAndInsert",
+    "pageId": "Bulk Manage Users",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Bulk Manage Users_FormatCSVAndInsert",
+  "deleted": false,
+  "gitSyncId": "63eac5b65938ee282d354b68_63f036e2cbb09a47d53c0c92"
+}

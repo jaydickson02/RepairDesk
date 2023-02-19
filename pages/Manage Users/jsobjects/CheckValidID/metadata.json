@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "CheckValidID",
+    "pageId": "Manage Users",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Manage Users_CheckValidID",
+  "deleted": false,
+  "gitSyncId": "63eac5b65938ee282d354b68_63f163dfcbb09a47d53c0cc4"
+}

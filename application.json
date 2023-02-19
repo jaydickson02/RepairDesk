@@ -1,0 +1,50 @@
+{
+  "pages": [
+    {
+      "id": "Devices",
+      "isDefault": true
+    },
+    {
+      "id": "Manage Devices",
+      "isDefault": false
+    },
+    {
+      "id": "Manage Users",
+      "isDefault": false
+    },
+    {
+      "id": "Item Types",
+      "isDefault": false
+    },
+    {
+      "id": "Status Options",
+      "isDefault": false
+    },
+    {
+      "id": "Bulk Manage Devices",
+      "isDefault": false
+    },
+    {
+      "id": "Bulk Manage Users",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#FFEBFB",
+  "icon": "file",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}

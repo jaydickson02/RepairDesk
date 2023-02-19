@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "FormatCSVAndInsert",
+    "pageId": "Bulk Manage Devices",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Bulk Manage Devices_FormatCSVAndInsert",
+  "deleted": false,
+  "gitSyncId": "63eac5b65938ee282d354b68_63edbb30cbb09a47d53c0c79"
+}
